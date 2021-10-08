@@ -18,8 +18,6 @@
 //  https://github.com/JoyBed - @JoyBed                                        //
 //  https://github.com/kickshawprogrammer - @kickshawprogrammer                //
 /////////////////////////////////////////////////////////////////////////////////
-//Rewrite by https://github.com/sangrapuan-toraya                              //
-/////////////////////////////////////////////////////////////////////////////////
 */
 
 #include <ESP8266WiFi.h> // Include WiFi library
